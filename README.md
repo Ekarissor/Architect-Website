@@ -1,23 +1,17 @@
-# My first Portfolio
+# Project Jinkau
 
-CV 2018, Thomas Gerard
+Jinkau 2019, Thomas Gerard, Alexandre Briffaut
 
-# Screenshot
+# Models
 
-![alt text](http://image.noelshack.com/fichiers/2018/50/1/1544449094-capture-du-2018-12-10-14-32-29.png)
-
-![alt text](http://image.noelshack.com/fichiers/2018/50/1/1544449091-capture-du-2018-12-10-14-32-52.png)
+https://marvelapp.com/7j7ddc1/screen/51474084
 
 
 ## Description
 
-This is my first Porfolio with HTML / CSS / JS
+site for the collective Jinkau built with HTML / CSS / JS in WordPress
 
 ## Used technology
 
-This is a template in html,css and js modified by me
-
-## Usage
-
-Upload all on your server, after open your mydomaine.fr/cv/index.html
+Wordpress / (Boostrap)
 
