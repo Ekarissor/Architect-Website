@@ -81,7 +81,7 @@ header .navbar-brand {
 }
 
 header .navbar-brand span {
-  color: #f4b214;
+  color: #91141A;
 }
 
 header .top-bar {
@@ -184,7 +184,7 @@ header .navbar .dropdown-menu .dropdown-item:hover {
 }
 
 header .navbar .dropdown-menu .dropdown-item.active {
-  background: #f4b214;
+  background: #91141A;
   color: #fff;
 }
 
@@ -220,7 +220,7 @@ header .navbar .cta-btn a:hover {
 }
 
 .cta-overlap .text {
-  background: #f4b214;
+  background: #91141A;
   padding: 3em 2em;
   -webkit-box-shadow: 0 1px 30px -4px rgba(0, 0, 0, 0.2);
   box-shadow: 0 1px 30px -4px rgba(0, 0, 0, 0.2);
@@ -248,7 +248,7 @@ header .navbar .cta-btn a:hover {
 
 .custom-icon {
   font-size: 70px;
-  color: #f4b214;
+  color: #91141A;
 }
 
 /* Owl Carousel */
@@ -308,7 +308,7 @@ header .navbar .cta-btn a:hover {
 }
 
 .owl-carousel .owl-dots .owl-dot.active {
-  background: #f4b214;
+  background: #91141A;
 }
 
 .owl-carousel.home-slider {
@@ -478,7 +478,7 @@ header .navbar .cta-btn a:hover {
 }
 
 .cta-link {
-  background: #f4b214;
+  background: #91141A;
   padding: 3.5em 0 3em 0;
   display: block;
   text-align: center;
@@ -593,7 +593,7 @@ header .navbar .cta-btn a:hover {
   -ms-transform: scale(1.05);
   transform: scale(1.05);
   z-index: 2;
-  border-bottom: 10px solid #f4b214;
+  border-bottom: 10px solid #91141A;
 }
 
 .media-custom {
@@ -681,11 +681,11 @@ header .navbar .cta-btn a:hover {
 }
 
 .site-footer a {
-  color: #f4b214;
+  color: #91141A;
 }
 
 .site-footer a:hover {
-  color: #f4b214;
+  color: #91141A;
 }
 
 .site-footer h3 {
@@ -714,8 +714,8 @@ header .navbar .cta-btn a:hover {
 }
 
 .footer-social a:hover {
-  background: #f4b214;
-  border-color: #f4b214;
+  background: #91141A;
+  border-color: #91141A;
   color: #fff;
 }
 
