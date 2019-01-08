@@ -34,8 +34,8 @@ h1, h2, h3, h4, h5 {
 }
 
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
-  border-color: #f6c245;
-  background: #f6c245;
+  border-color: #91141A;
+  background: #91141A;
 }
 
 .btn.btn-sm {
@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5 {
 
 .btn.btn-outline-primary {
   border-width: 2px;
-  color: #f4b214;
+  color: #91141A;
 }
 
 .btn.btn-outline-primary:hover, .btn.btn-outline-primary:focus, .btn.btn-outline-primary:active {
@@ -549,7 +549,7 @@ header .navbar .cta-btn a:hover {
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
   transform: translateX(-50%);
-  background: #f4b214;
+  background: #91141A;
 }
 
 .text-black {
@@ -578,7 +578,7 @@ header .navbar .cta-btn a:hover {
 
 .media-feature .icon {
   font-size: 60px;
-  color: #f4b214;
+  color: #91141A;
 }
 
 .media-feature h3 {
