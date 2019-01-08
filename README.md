@@ -1,6 +1,6 @@
 # Project Jinkau
 
-Jinkau 2019, Thomas Gerard, Alexandre Briffaut
+Jinkau 2019, Thomas Gerard, Alexandre Briffaut, Mathieu Castel
 
 # Models
 
