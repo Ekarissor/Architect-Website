@@ -724,6 +724,7 @@ header .navbar .cta-btn a:hover {
   position: relative;
   overflow: hidden;
   text-align: center;
+  border: solid 6px rgb(255, 255, 255);
 }
 
 .link-thumbnail img {
@@ -757,7 +758,7 @@ header .navbar .cta-btn a:hover {
   position: absolute;
   bottom: -20px;
   left: 0;
-  color: #fff;
+  color: #111;
   font-size: 18px;
   -webkit-transition: .5s all ease;
   -o-transition: .5s all ease;
@@ -781,7 +782,7 @@ header .navbar .cta-btn a:hover {
   right: 0;
   bottom: 0;
   content: "";
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(255, 255, 255, 0.644);
   position: absolute;
 }
 
@@ -950,4 +951,15 @@ icon-book {
   color: #91141A;
   background-color: #91141A;
   border-color: #91141A;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.copyrightfooter {
+  text-align: center;
+  margin-top: 20px;
 }
