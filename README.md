@@ -13,5 +13,5 @@ site for the collective Jinkau built with HTML / CSS / JS in WordPress
 
 ## Used technology
 
-Wordpress / (Boostrap)
+Wordpress / Boostrap
 
